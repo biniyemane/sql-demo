@@ -1,1 +1,4 @@
 # sql-demo
+## Reflection
+
+From this assignment, I learned the fundamental steps required to create and manage a SQLite database, including table creation, data insertion, and performing CRUD (Create, Read, Update, Delete) operations using SQL commands. Working with SQLite3 shell was a practical experience that reinforced my understanding of database management and SQL syntax. One of the challenges I faced was ensuring the correct SQL syntax for each command and understanding the different data types and constraints used in SQLite. This exercise also highlighted the importance of precise and accurate data manipulation to maintain the integrity and consistency of the database. Overall, it was a valuable hands-on experience that deepened my understanding of database operations.
